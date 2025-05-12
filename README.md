@@ -15,9 +15,9 @@
 
 ## 👤 Información personal
 
-- **Nombre:** [Tu nombre]
-- **Ocupación:** [Tu ocupación actual, ej. Estudiante de Ingeniería en Computación]
-- **Lugar de residencia:** [Ciudad, País]
+- **Nombre:** Daniel Vilema
+- **Ocupación:** Estudiante de Ingeniería en Computación - Intérprete bilingüe ESP/ENG.
+- **Lugar de residencia:** Guayaquil, Ecuador.
 - **Sitio web o portafolio:** [https://tu-sitio-web.com](https://tu-sitio-web.com)
 
 ---
@@ -35,16 +35,17 @@
 
 Estas son algunas de las tecnologías que uso regularmente:
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Python, Flask
-- Bases de datos: MySQL, MongoDB
+- Frontend: 
+- Backend: 
+- Bases de datos: MySQL
 - Herramientas: Git, GitHub, Visual Studio Code
+- Lenguajes: Python, Java, C.
 
 ---
 
 ## 📬 Contacto
 
-- Correo institucional: `tucorreo@institucion.edu`
+- Correo institucional: djvilema@espol.edu.ec
 - LinkedIn: [Tu perfil de LinkedIn](https://linkedin.com/in/tuusuario)
 - GitHub: [Tu perfil de GitHub](https://github.com/tuusuario)
 
