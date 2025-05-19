@@ -18,25 +18,27 @@
 - **Nombre:** Daniel Vilema
 - **Ocupación:** Estudiante de Ingeniería en Computación - Intérprete bilingüe ESP/ENG.
 - **Lugar de residencia:** Guayaquil, Ecuador.
-- **Sitio web o portafolio:** [https://tu-sitio-web.com](https://tu-sitio-web.com)
+
 
 ---
 
 ## 💻 Proyectos
 
+## 💻 Proyectos
+
 | Proyecto | Descripción | Tecnologías | Estado | Enlace |
 |---------|-------------|-------------|--------|--------|
+| `Heladería Virtual` | Aplicación desarrollada en Java que simula una tienda de helados. Permite a los usuarios navegar por un menú con distintos sabores, realizar pedidos, gestionar entregas y efectuar pagos a través de una interfaz sencilla. El sistema incluye confirmación de pedidos, organización del proceso de compra y una experiencia completa similar a la de una tienda en línea. | Java, CSS | ✅ Completado | [Ver proyecto](https://github.com/cimontesm/POO4_PROY2P_Montes_Reyes_Vilema) |
 | `Proyecto 1` | Breve descripción del proyecto | HTML, CSS, JavaScript | ✅ Completado | [Ver proyecto](https://github.com/usuario/proyecto1) |
 | `Proyecto 2` | Otro proyecto interesante | Python, Flask | 🛠 En desarrollo | [Ver proyecto](https://github.com/usuario/proyecto2) |
 
----
+----------
+
 
 ## 🛠 Tecnologías
 
 Estas son algunas de las tecnologías que uso regularmente:
 
-- Frontend: 
-- Backend: 
 - Bases de datos: MySQL
 - Herramientas: Git, GitHub, Visual Studio Code
 - Lenguajes: Python, Java, C.
@@ -46,8 +48,8 @@ Estas son algunas de las tecnologías que uso regularmente:
 ## 📬 Contacto
 
 - Correo institucional: djvilema@espol.edu.ec
-- LinkedIn: [Tu perfil de LinkedIn](https://linkedin.com/in/tuusuario)
-- GitHub: [Tu perfil de GitHub](https://github.com/tuusuario)
+- LinkedIn: [www.linkedin.com/in/danielvilema]
+- GitHub: [https://github.com/DanieljVilema]
 
 ---
 
